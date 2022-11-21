@@ -20,7 +20,7 @@ This is a guide which shows how to perform layout animations using JS.
 
 ### Links
 
-- [Live Demo]()
+- [Live Demo](https://javascript-layout-animations.netlify.app/)
 
 ## My process
 
